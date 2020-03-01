@@ -1,0 +1,1 @@
+ export const headerTitle = ['', 'Symbol', 'Gene ID', 'Gene Name', 'Overall Association Score']
